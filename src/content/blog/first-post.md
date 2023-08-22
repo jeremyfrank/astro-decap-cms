@@ -1,7 +1,9 @@
 ---
-title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
+title: First post
+description: Lorem ipsum dolor sit amet
+pubDate: Jul 08 2022
+updatedDate: 21 Aug 2023
+author: Jeremy Frank
 heroImage: /images/blog-placeholder-3.jpg
 ---
 

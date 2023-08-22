@@ -1,7 +1,9 @@
 ---
-title: 'Second post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 22 2022'
+title: Second post
+description: Lorem ipsum dolor sit amet
+pubDate: Jul 22 2022
+updatedDate: 21 Aug 2023
+author: Melissa Piper
 heroImage: /images/blog-placeholder-4.jpg
 ---
 
